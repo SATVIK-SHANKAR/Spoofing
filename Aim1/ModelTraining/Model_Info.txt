@@ -1,0 +1,8 @@
+4-saves the output in another folder
+5- displays the output using matplotlib only
+6-using the pretrained vgg16 model
+6-using the pretrained resnet 50 model
+7-same resnet
+8- using shallow CNN but also combines deep features from resnet50
+9- 8 but better
+10- 9 but better
